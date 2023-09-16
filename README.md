@@ -14,7 +14,8 @@
 * [Tinkoff Scholarship](https://fintech.tinkoff.ru/activities/scholarship/) holder
 
 ### 💻 Work experience
-* Intern at [Yandex](https://ya.ru/) (March 2023 - present day) - Natural language processing
+* Junior Developer at [Yandex](https://ya.ru/) (July 2023 - present day) - Natural language processing
+* Intern at [Yandex](https://ya.ru/) (March 2023 - July 2023) - Natural language processing
 * Intern at [NeuroSputnik](https://neurosputnik.ru/) (June 2022 - August 2022) - Computer Vision
 
 ### Contacts
